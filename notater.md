@@ -29,6 +29,7 @@ Lage github brukar
 - git merge «repo»/»branch» 		Merger saman greiner
 - `git pull` 				            henter siste instans av branch, om du b
 - git clone «url»				    kloner repo til din maskin
+- `git blame`                       Gir ein liste over kem som har rota i koden.
 
 `.gitignore` 
 	Gjer at finavn du legger inn her ikkje blir oppdatert I git
