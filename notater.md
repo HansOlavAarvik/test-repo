@@ -29,6 +29,7 @@ Lage github brukar
 - git merge «repo»/»branch» 		Merger saman greiner
 - `git pull` 				            henter siste instans av branch, om du b
 - git clone «url»				    kloner repo til din maskin
+- `git blame`                       Gir ein liste over kem som har rota i koden.
 - `git branch`                      Viser hvilken branch du er på
 - `git branch -M "nytt navn"`       bytter navn på branchen du er på
 - `git branch "navn`                Lager ny branch med "navn"
