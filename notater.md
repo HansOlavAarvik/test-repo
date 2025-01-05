@@ -16,19 +16,19 @@ Lage github brukar
 ## Kommandolinje:
 - `git --version`
 - `git status`     				    Show the working tree status
-- git add .         				make files ready for staging
-- git reset					        Remove from stage
-- git commit -m “message” 		    Commits to branch
-- git log 					        Gir log over siste commit
-- git commit -a -m “message”	    Git commit og add I samme linje
-- git remote
-- 	origin “url”
-- 	show origin
-- git push “repo” “branch” -u		oppdaterere “repo” “branch” online
-- git fetch 				        henter siste commit av repo
-- git merge «repo»/»branch» 		Merger saman greiner
+- `git add .`         				make files ready for staging
+- `git reset`					        Remove from stage
+- `git commit -m “message” 	`	    Commits to branch
+- `git log` 					        Gir log over siste commit
+- `git commit -am “message”`	    Git commit og add I samme linje
+- `git remote`
+- `git remote origin “url”`
+- `git remote show origin`
+- `git push “repo” “branch” -u`		oppdaterere “repo” “branch” online
+- `git fetch` 				        henter siste commit av repo
+- `git merge «repo»/»branch» `		Merger saman greiner
 - `git pull` 				            henter siste instans av branch, om du b
-- git clone «url»				    kloner repo til din maskin
+- `git clone «url»`				    kloner repo til din maskin
 - `git blame`                       Gir ein liste over kem som har rota i koden.
 - `git branch`                      Viser hvilken branch du er på
 - `git branch -M "nytt navn"`       bytter navn på branchen du er på
