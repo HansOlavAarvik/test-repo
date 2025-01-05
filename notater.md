@@ -29,6 +29,13 @@ Lage github brukar
 - git merge «repo»/»branch» 		Merger saman greiner
 - `git pull` 				            henter siste instans av branch, om du b
 - git clone «url»				    kloner repo til din maskin
-
+- `git branch`                      Viser hvilken branch du er på
+- `git branch -M "nytt navn"`       bytter navn på branchen du er på
+- `git branch "navn`                Lager ny branch med "navn"
+- `git branch -d "navn"`            Sletter branch med "navn"
+- `git checkout "navn"`             GJer at du jobber på branch med "navn"          
+- `git chekcout -b "namn"`          Lager ny branch av "navn" og flytter arbeidområdet dit
+- `git merge "branch-navn"`         Merger branch-navn med den branchen du arbeider i
+- `git merge --abort`               Avslutter mergeprosess
 `.gitignore` 
 	Gjer at finavn du legger inn her ikkje blir oppdatert I git
