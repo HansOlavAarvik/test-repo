@@ -15,7 +15,7 @@ Lage github brukar
 
 ## Kommandolinje:
 - `git --version`
-- git status     				    Show the working tree status
+- `git status`     				    Show the working tree status
 - git add .         				make files ready for staging
 - git reset					        Remove from stage
 - git commit -m “message” 		    Commits to branch
