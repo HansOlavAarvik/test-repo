@@ -12,22 +12,22 @@ Lage github brukar
 
 ## Gode tips
 `git help everyday` er ei enkel handbok til som fint forklarar dei mest brukte kommandoane
-Fleire gode tips
+
 ## Kommandolinje:
 - `git --version`
 - `git status`     				    Show the working tree status
 - `git add .`         				make files ready for staging
-- `git reset`					        Remove from stage
+- `git reset`					    Remove from stage
 - `git commit -m “message” 	`	    Commits to branch
-- `git log` 					        Gir log over siste commit
+- `git log` 					    Gir log over siste commit
 - `git commit -am “message”`	    Git commit og add I samme linje
 - `git remote`
-- `git remote add origin “url”`
+- `git remote add origin «url»`
 - `git remote show origin`
-- `git push “repo” “branch” -u`		oppdaterere “repo” “branch” online
+- `git push «repo» «branch» -u`		oppdaterere “repo” “branch” online
 - `git fetch` 				        henter siste commit av repo
-- `git merge «repo»/»branch» `		Merger saman greiner
-- `git pull` 				            henter siste instans av branch, om du b
+- `git merge «repo»/«branch» `		Merger saman greiner
+- `git pull` 				        Henter siste instans av branch du er på
 - `git clone «url»`				    kloner repo til din maskin
 - `git blame`                       Gir ein liste over kem som har rota i koden.
 - `git branch`                      Viser hvilken branch du er på
@@ -43,5 +43,6 @@ Fleire gode tips
 Gjer at finavn du legger inn her ikkje blir oppdatert I git
 
 ## notes
-Du må lage ein eigen branch før du pusher til master branchen, du kan ikkje endre på master branchen.
-Test Håkon
+Du må lage ein eigen branch før du pusher til master greina, du kan ikkje pushe direkte på master greina.
+
+

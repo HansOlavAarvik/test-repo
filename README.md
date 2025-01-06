@@ -1,5 +1,3 @@
 # git tutorial
 
-asdf
-asdf2
-asdf3
+Enkel handbok i git og github for tenkt til nybegynnarar, bidra gjerne med kommentarar og tips i passande fil.
