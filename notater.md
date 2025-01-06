@@ -44,3 +44,4 @@ Gjer at finavn du legger inn her ikkje blir oppdatert I git
 
 ## notes
 Du må lage ein eigen branch før du pusher til master branchen, du kan ikkje endre på master branchen.
+Test Håkon
