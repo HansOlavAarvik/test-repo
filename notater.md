@@ -12,7 +12,7 @@ Lage github brukar
 
 ## Gode tips
 `git help everyday` er ei enkel handbok til som fint forklarar dei mest brukte kommandoane
-
+Fleire gode tips
 ## Kommandolinje:
 - `git --version`
 - `git status`     				    Show the working tree status
@@ -38,8 +38,9 @@ Lage github brukar
 - `git chekcout -b "namn"`          Lager ny branch av "navn" og flytter arbeidområdet dit
 - `git merge "branch-navn"`         Merger branch-navn med den branchen du arbeider i
 - `git merge --abort`               Avslutter mergeprosess
-`.gitignore`                        fil med liste over filer som ikkje skal vere med i git
-	Gjer at finavn du legger inn her ikkje blir oppdatert I git
 
-##notater
+`.gitignore`                        fil med liste over filer som ikkje skal vere med i git
+Gjer at finavn du legger inn her ikkje blir oppdatert I git
+
+## notes
 Du må lage ein eigen branch før du pusher til master branchen, du kan ikkje endre på master branchen.
