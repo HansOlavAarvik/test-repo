@@ -22,7 +22,7 @@ Fleire gode tips
 - `git log` 					        Gir log over siste commit
 - `git commit -am “message”`	    Git commit og add I samme linje
 - `git remote`
-- `git remote origin “url”`
+- `git remote add origin “url”`
 - `git remote show origin`
 - `git push “repo” “branch” -u`		oppdaterere “repo” “branch” online
 - `git fetch` 				        henter siste commit av repo
